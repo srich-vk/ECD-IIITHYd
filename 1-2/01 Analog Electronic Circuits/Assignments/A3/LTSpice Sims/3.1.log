@@ -1,0 +1,25 @@
+LTspice 24.1.1 for Windows
+Circuit: C:\Users\Sricharan\OneDrive\Important Docs\02 IIITH Docs\02 IIITH Classwork\1-2\01 Analog Electronic Circuits\Assignments\A3\LTSpice Sims\3.1.net
+Start Time: Tue Apr  1 22:59:41 2025
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+.OP point found by inspection.
+.step V_GS=0 
+.step V_GS=0.3 
+.step V_GS=0.6 
+.step V_GS=0.9 
+.step V_GS=1.2 
+.step V_GS=1.5 
+.step V_GS=1.8 
+Total elapsed time: 0.099 seconds.
+
+Files loaded:
+C:\Users\Sricharan\OneDrive\Important Docs\02 IIITH Docs\02 IIITH Classwork\1-2\01 Analog Electronic Circuits\Assignments\A3\LTSpice Sims\3.1.net
+C:\Users\Sricharan\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\Sricharan\AppData\Local\LTspice\lib\sub\TSMC_180nm.txt
+

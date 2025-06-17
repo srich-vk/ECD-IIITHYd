@@ -1,0 +1,16 @@
+LTspice 24.1.1 for Windows
+Circuit: C:\Users\Sricharan\OneDrive\Important Docs\02 IIITH Docs\02 IIITH Classwork\1-2\01 Analog Electronic Circuits\Assignments\A3\LTSpice Sims\Draft6.net
+Start Time: Wed Apr  2 04:00:24 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.062 seconds.
+
+Files loaded:
+C:\Users\Sricharan\OneDrive\Important Docs\02 IIITH Docs\02 IIITH Classwork\1-2\01 Analog Electronic Circuits\Assignments\A3\LTSpice Sims\Draft6.net
+C:\Users\Sricharan\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\Sricharan\AppData\Local\LTspice\lib\sub\UA741.301
+

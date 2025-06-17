@@ -1,0 +1,22 @@
+LTspice 24.1.1 for Windows
+Circuit: C:\Users\Sricharan\OneDrive\Important Docs\02 IIITH Docs\02 IIITH Classwork\1-2\01 Analog Electronic Circuits\Assignments\A2\LTSpice SIms\Q31.net
+Start Time: Thu Mar  6 21:40:50 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+.OP point found by inspection.
+.step Vcc=0 
+.step Vcc=2 
+.step Vcc=4 
+.step Vcc=6 
+.step Vcc=8 
+.step Vcc=10 
+.step Vcc=12 
+Total elapsed time: 0.151 seconds.
+
+Files loaded:
+C:\Users\Sricharan\OneDrive\Important Docs\02 IIITH Docs\02 IIITH Classwork\1-2\01 Analog Electronic Circuits\Assignments\A2\LTSpice SIms\Q31.net
+C:\Users\Sricharan\AppData\Local\LTspice\lib\cmp\standard.bjt
+
