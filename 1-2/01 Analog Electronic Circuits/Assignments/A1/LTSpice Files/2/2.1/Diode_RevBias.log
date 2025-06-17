@@ -1,0 +1,15 @@
+LTspice 24.1.1 for Windows
+Circuit: C:\Users\Sricharan\OneDrive\Important Docs\02 IIITH Docs\02 IIITH Classwork\1-2\01 Analog Electronic Circuits\Assignments\A1\LTSpice Files\2\2.1\Diode_RevBias.net
+Start Time: Mon Feb  3 16:00:23 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+.step 
+Total elapsed time: 0.044 seconds.
+
+Files loaded:
+C:\Users\Sricharan\OneDrive\Important Docs\02 IIITH Docs\02 IIITH Classwork\1-2\01 Analog Electronic Circuits\Assignments\A1\LTSpice Files\2\2.1\Diode_RevBias.net
+C:\Users\Sricharan\AppData\Local\LTspice\lib\cmp\standard.dio
+
